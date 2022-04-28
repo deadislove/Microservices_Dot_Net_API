@@ -1,0 +1,351 @@
+2022-04-21T01:57:53.4709973+08:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-04-21T01:57:53.5334381+08:00  [INF] Hosting environment: "Development" (c3307c92)
+2022-04-21T01:57:53.5725882+08:00  [INF] Content root path: "C:\Users\DavidLin\Documents\Projects_VisualStudio2019\Microservices.Api\Microservices.Api\Microservices.Api" (b5d60022)
+2022-04-21T02:08:16.7366950+08:00 8000001c-0001-f500-b63f-84710c7967bb [INF] ClassFilter OnActionExecuting (d8039a86)
+2022-04-21T02:08:16.7544552+08:00 8000001c-0001-f500-b63f-84710c7967bb [INF] Controller: Demo; Action: Get (e5f39dc3)
+2022-04-21T02:08:16.7579485+08:00 8000001c-0001-f500-b63f-84710c7967bb [INF] Executing Demo controller - Get method without authorize. (0018e415)
+2022-04-21T02:09:48.6132015+08:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-04-21T02:09:48.6281364+08:00  [INF] Hosting environment: "Development" (c3307c92)
+2022-04-21T02:09:48.6327809+08:00  [INF] Content root path: "C:\Users\DavidLin\Documents\Projects_VisualStudio2019\Microservices.Api\Microservices.Api\Microservices.Api" (b5d60022)
+2022-04-21T02:13:46.3835595+08:00 8000001a-0002-f600-b63f-84710c7967bb [INF] ClassFilter OnActionExecuting (d8039a86)
+2022-04-21T02:13:46.3895921+08:00 8000001a-0002-f600-b63f-84710c7967bb [INF] Controller: Demo; Action: Get (e5f39dc3)
+2022-04-21T02:13:46.3927491+08:00 8000001a-0002-f600-b63f-84710c7967bb [INF] Executing Demo controller - Get method without authorize. (0018e415)
+2022-04-21T02:13:49.9642058+08:00 8000001a-0002-f600-b63f-84710c7967bb [INF] ClassFilter OnActionExecuted (5ca5a71c)
+2022-04-21T02:13:49.9675161+08:00 8000001a-0002-f600-b63f-84710c7967bb [INF] Http request info: (f7b303b3)
+2022-04-21T02:13:49.9703545+08:00 8000001a-0002-f600-b63f-84710c7967bb [INF] Http URL: /api/Demo (fdda387b)
+2022-04-21T02:13:50.0829609+08:00 8000001a-0002-f600-b63f-84710c7967bb [INF] Http Header: {
+  "Accept": [
+    "text/plain"
+  ],
+  "Accept-Encoding": [
+    "gzip, deflate, br"
+  ],
+  "Accept-Language": [
+    "en-US,en;q=0.9"
+  ],
+  "Authorization": [
+    "Bearer eyJhbGciOiJSUzI1NiIsImtpZCI6IjY2NzdFM0QxOUMyQzI2MDQ0RTVCRTIxNEM2QjYxNEMzIiwidHlwIjoiYXQrand0In0.eyJuYmYiOjE2NTA0Nzg0MjAsImV4cCI6MTY1MDQ4MjAyMCwiaXNzIjoiaHR0cHM6Ly9sb2NhbGhvc3Q6NDQzMjgiLCJjbGllbnRfaWQiOiJEZXYtVXNlciIsInN1YiI6IjEiLCJhdXRoX3RpbWUiOjE2NTA0Nzg0MTksImlkcCI6ImxvY2FsIiwicm9sZSI6ImFkbWluIiwianRpIjoiMTJBNzYwNDM1Rjc0RkM0NzM1NkU2MzMxOUUxMzA3RjUiLCJzaWQiOiIwQ0QyOTYyMzk1RUNEMjU1ODJGQzE5REI2RkY3N0M2MCIsImlhdCI6MTY1MDQ3ODQyMCwic2NvcGUiOlsiRGV2QXBpIiwiVWF0QXBpIl0sImFtciI6WyJwd2QiXX0.iN4ZZaxvYM2d2VvY8k3BokYsPlCmVAfvbZOINFVUuKIz6tjMI2UWHc3w02-uDxQ9yquS_zengpHpmOojq03V4V3vQgSL3d9-DGNvS_hMu_PM5fjDW-W904t-q95um9YvzJgfWIfs61e97lCrDJY5YN3b7ScbnYmKNZFxLK2-1rUUhi4T1OR_dW3FvTxEyIt7tZBDoTgbBcdkQYvU3cIy6d-0asAXvDZJ-OfnRhhaBNpxkqMR4nleSHJlQ6DUzxt7hAMi91XALjJRVoTchK_0HGqrrfj6NoOKexEWteLbXVe35snkW8DI3vLVn8tBalSN3CrcosHQRJENj7NLtkF0bA"
+  ],
+  "Connection": [
+    "keep-alive"
+  ],
+  "Cookie": [
+    ".AspNetCore.Antiforgery.4QDlbYID8vg=CfDJ8I2uQt2XHYdHjxojPam-4h_Wi_zJCOn8JCLbxfdt4lXm6rc915RdYm_qQfBrDYyhFZHXWtMDPukOgBjNNDbLNm4uFpRXiOoP13eFHIgxdYz6evtTVL2ogxiZrMiZ0S3iee16XfP9ikYazTNfxWbefAA; idsrv.session=0CD2962395ECD25582FC19DB6FF77C60; idsrv=CfDJ8I2uQt2XHYdHjxojPam-4h-GxvcvJevqti1Ay9Zp5w-47ps-0Z8-anTaRGnNYa9z_zV-xq97Hn8PvWC00h6_peECM7wU298ONiMu4vudmQtNzWw6w6irrpDzoc-wcieOpPocun5KHGjF5NxkuebuCcH45bK_N5vKo_zRtCWoBwJXiRej6atb-GcMcG-PDVOSLxw02lUD7RdpvJwkl5qXd3-2rtOILArRzJqdCQVk03nihvtiA5u--Sfr4Ys_98BzDmXFufGWetm745q3jsijiQocRmBa0Fz16Rksbnp2V-vh_s21oQW-4qc8qws9VJGYsShklBxf0dtX3rgoKtlOwWj7K25eTCkkv4Pj-_fsJDeMuCh2NyGraDTzo0lk2dmNnoGb8_BAiXtzevXoOIZV6omP93hdKFIItEEh_c_z2hu7ow7l2OPx7rIWsnP7aP_3R5cFUuDH6FUREAAzYfHiX4vKzi20QT8Gfac6XxoMLvsVnzo_th8S_nXXjB5aF-pzqiHxqh1UTHh9IdHmMIMNQ1mTE7Hqx0byxWco16U20cyKg4dmlGmqfoIlA3GMVNXQWw"
+  ],
+  "Host": [
+    "localhost:55836"
+  ],
+  "Referer": [
+    "http://localhost:55836/swagger/index.html"
+  ],
+  "User-Agent": [
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.44"
+  ],
+  "sec-ch-ua": [
+    "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"100\", \"Microsoft Edge\";v=\"100\""
+  ],
+  "sec-ch-ua-mobile": [
+    "?0"
+  ],
+  "sec-ch-ua-platform": [
+    "\"Windows\""
+  ],
+  "Sec-Fetch-Site": [
+    "same-origin"
+  ],
+  "Sec-Fetch-Mode": [
+    "cors"
+  ],
+  "Sec-Fetch-Dest": [
+    "empty"
+  ]
+} (bd43e35b)
+2022-04-21T02:13:50.0858487+08:00 8000001a-0002-f600-b63f-84710c7967bb [INF] Http Host: localhost:55836 (57bb97b7)
+2022-04-21T02:13:50.0888691+08:00 8000001a-0002-f600-b63f-84710c7967bb [INF] Http ContentType:  (18c420ef)
+2022-04-21T02:13:50.0922226+08:00 8000001a-0002-f600-b63f-84710c7967bb [INF] Http Method: GET (25017fb9)
+2022-04-21T02:13:50.1286809+08:00 8000001a-0002-f600-b63f-84710c7967bb [INF] Http Query: [] (57622010)
+2022-04-21T02:13:50.1580185+08:00 8000001a-0002-f600-b63f-84710c7967bb [INF] Http Body:  (43b197e1)
+2022-04-21T02:13:50.1646410+08:00 8000001a-0002-f600-b63f-84710c7967bb [INF] Http response info: (59ece11a)
+2022-04-21T02:13:50.1696224+08:00 8000001a-0002-f600-b63f-84710c7967bb [INF] Http status code: 200 (e8acc928)
+2022-04-21T02:13:50.1742394+08:00 8000001a-0002-f600-b63f-84710c7967bb [INF] Http Header: {} (c0622202)
+2022-04-21T02:13:50.1772152+08:00 8000001a-0002-f600-b63f-84710c7967bb [INF] Http ContentType:  (18c420ef)
+2022-04-21T02:13:50.1797040+08:00 8000001a-0002-f600-b63f-84710c7967bb [INF] Http Method: GET (25017fb9)
+2022-04-21T02:13:50.1824137+08:00 8000001a-0002-f600-b63f-84710c7967bb [INF] Http Query: [] (57622010)
+2022-04-21T02:13:50.1858716+08:00 8000001a-0002-f600-b63f-84710c7967bb [INF] Http Body:  (43b197e1)
+2022-04-21T02:13:50.3027882+08:00 8000001a-0002-f600-b63f-84710c7967bb [INF] Result:  (ddb1a60c)
+2022-04-21T02:13:50.3592248+08:00 8000001a-0002-f600-b63f-84710c7967bb [INF] "{\r\n  \"Value\": [\r\n    {\r\n      \"ID\": 1,\r\n      \"Name\": \"Andy\",\r\n      \"Age\": 10,\r\n      \"Date\": \"2022-04-21T02:13:49.9066601+08:00\"\r\n    },\r\n    {\r\n      \"ID\": 2,\r\n      \"Name\": \"Tom\",\r\n      \"Age\": 20,\r\n      \"Date\": \"2022-04-21T02:13:49.9411498+08:00\"\r\n    },\r\n    {\r\n      \"ID\": 3,\r\n      \"Name\": \"Sam\",\r\n      \"Age\": 18,\r\n      \"Date\": \"2022-04-21T02:13:49.942268+08:00\"\r\n    }\r\n  ],\r\n  \"Formatters\": [],\r\n  \"ContentTypes\": [],\r\n  \"DeclaredType\": \"System.Collections.Generic.IEnumerable`1[[Microservices.Infra.DBContext.Entities.Enterprise_MVC_Core, Microservices.Infra, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=5.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e\",\r\n  \"StatusCode\": null\r\n}" (2bcef04c)
+2022-04-21T02:13:50.3681294+08:00 8000001a-0002-f600-b63f-84710c7967bb [INF] ClassFilter OnResultExecuting (3fe68e12)
+2022-04-21T02:13:50.4328209+08:00 8000001a-0002-f600-b63f-84710c7967bb [INF] ClassFilter OnResultExecuted (f65e3622)
+2022-04-21T02:15:13.4037770+08:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-04-21T02:15:13.4146277+08:00  [INF] Hosting environment: "Development" (c3307c92)
+2022-04-21T02:15:13.4178838+08:00  [INF] Content root path: "C:\Users\DavidLin\Documents\Projects_VisualStudio2019\Microservices.Api\Microservices.Api\Microservices.Api" (b5d60022)
+2022-04-21T02:15:36.7597083+08:00 80000026-0000-f900-b63f-84710c7967bb [INF] ClassFilter OnActionExecuting (d8039a86)
+2022-04-21T02:15:36.7654328+08:00 80000026-0000-f900-b63f-84710c7967bb [INF] Controller: Demo; Action: Get (e5f39dc3)
+2022-04-21T02:15:36.7698576+08:00 80000026-0000-f900-b63f-84710c7967bb [INF] Executing Demo controller - Get method without authorize. (0018e415)
+2022-04-21T02:15:38.4471684+08:00 80000026-0000-f900-b63f-84710c7967bb [INF] ClassFilter OnActionExecuted (5ca5a71c)
+2022-04-21T02:15:38.4501122+08:00 80000026-0000-f900-b63f-84710c7967bb [INF] Http request info: (f7b303b3)
+2022-04-21T02:15:38.4530884+08:00 80000026-0000-f900-b63f-84710c7967bb [INF] Http URL: /api/Demo (fdda387b)
+2022-04-21T02:15:38.5313633+08:00 80000026-0000-f900-b63f-84710c7967bb [INF] Http Header: {
+  "Accept": [
+    "text/plain"
+  ],
+  "Accept-Encoding": [
+    "gzip, deflate, br"
+  ],
+  "Accept-Language": [
+    "en-US,en;q=0.9"
+  ],
+  "Authorization": [
+    "Bearer eyJhbGciOiJSUzI1NiIsImtpZCI6IjY2NzdFM0QxOUMyQzI2MDQ0RTVCRTIxNEM2QjYxNEMzIiwidHlwIjoiYXQrand0In0.eyJuYmYiOjE2NTA0Nzg1MzIsImV4cCI6MTY1MDQ4MjEzMiwiaXNzIjoiaHR0cHM6Ly9sb2NhbGhvc3Q6NDQzMjgiLCJjbGllbnRfaWQiOiJEZXYtVXNlciIsInN1YiI6IjEiLCJhdXRoX3RpbWUiOjE2NTA0Nzg1MzIsImlkcCI6ImxvY2FsIiwicm9sZSI6ImFkbWluIiwianRpIjoiMDZBRDk3Q0MzQ0I4RTBFRjlEQTg4MDYwMjcwQzlBQjQiLCJzaWQiOiJERDMyQ0E2OEUxQTRBRTM2NTNGQzc3OUM3N0Q1N0JFRiIsImlhdCI6MTY1MDQ3ODUzMiwic2NvcGUiOlsiRGV2QXBpIiwiVWF0QXBpIl0sImFtciI6WyJwd2QiXX0.Quwkjh8f-BaCEoV3CJVuiQSPIgCQ4RsKY1IsD5CwNR8yf-MDINalUn2NEACindnC4qasELMTBIxnpnzFDEztuUI6MgoTCBTPZGNBex7MyTOg_ynByq2SJdGkYz6DqqOFEDfSwIzqlh4pVehVw4NNEDMXX4yHoQT86ZHFoyc30NQJbN-4zAI6p7Fu1rJdL4U6sTt64Mn_teqzYGcrmb6WZ82_zcp3yqV7Qbx5qif_iuw2afW7MjYd4opDVg9TE66esuaUcTL2MEyO_NbJh1eQ9pw1AVqcTzVzKp0z_-SQMp7CRbtFc4rOvNvm1ZlPXFYRSD8uSwUyoy4H-NCKY9-Jew"
+  ],
+  "Connection": [
+    "keep-alive"
+  ],
+  "Cookie": [
+    ".AspNetCore.Antiforgery.4QDlbYID8vg=CfDJ8I2uQt2XHYdHjxojPam-4h-C3aXCLec5ifqoBS1fUYd4toT_vkrRG83EgbXnaiuFnsCxWpfH42RDtMXb9NfJMKraRgATT_9Uo97uhNE_55HirNkZQqLZpiEaWuGfrKdiFH1HfYgWol7N6y1fmpACDps; idsrv.session=DD32CA68E1A4AE3653FC779C77D57BEF; idsrv=CfDJ8I2uQt2XHYdHjxojPam-4h9KAkXSp6c16Db8Pf4sV99dgRo1SSLUH-otvkV_KL79LheQYrlsOLeD8I7cjqGuLjji7P8VoF3xp23NQsbgX2RkW2XInvHNTKjqq3i7t4EPyCZizkdZwpd-pRrw8modt2cTEYLLb2oiAFhV9cQpYZamZunBjB76hnBM3JXD6qnYmJ05JBN-MfVFLjyM1ERBJtHBgIGLh38xrqOGwq3lZv7xmVedgoeIQNFT1r5aynBweZa5LCI6ShHS0CMJPVQRW3-lFONUFqFN4kFRKTqO9_zsQD5ZX2-aBtAdvwC7rzqMv7LoQ6grY_Icuhs0XN4qBGn9bJJg1NpmF9rG3KgLAXaMIkotz1tGjzDJ88y7oMhfT46uOVWEwvul3araPyq9e165ekyCa5aSFa65ckFVL1FWHZ2ZiniI-9YSif7f1CGDtITEeGAPXBFo2343x64yham4L-iqLREHD_qLDiDK86gog4GOcuiRJum4onOsoa3OAkB3y9A9X5OfkguxVntSZNgLaJ2If6ia-ztECRh_Vnvp--0eLxFa7V-hkMk7EUUSrQ"
+  ],
+  "Host": [
+    "localhost:55836"
+  ],
+  "Referer": [
+    "http://localhost:55836/swagger/index.html"
+  ],
+  "User-Agent": [
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.44"
+  ],
+  "sec-ch-ua": [
+    "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"100\", \"Microsoft Edge\";v=\"100\""
+  ],
+  "sec-ch-ua-mobile": [
+    "?0"
+  ],
+  "sec-ch-ua-platform": [
+    "\"Windows\""
+  ],
+  "Sec-Fetch-Site": [
+    "same-origin"
+  ],
+  "Sec-Fetch-Mode": [
+    "cors"
+  ],
+  "Sec-Fetch-Dest": [
+    "empty"
+  ]
+} (fa381c7c)
+2022-04-21T02:15:38.5345026+08:00 80000026-0000-f900-b63f-84710c7967bb [INF] Http Host: localhost:55836 (57bb97b7)
+2022-04-21T02:15:38.5376487+08:00 80000026-0000-f900-b63f-84710c7967bb [INF] Http ContentType:  (18c420ef)
+2022-04-21T02:15:38.5403732+08:00 80000026-0000-f900-b63f-84710c7967bb [INF] Http Method: GET (25017fb9)
+2022-04-21T02:15:38.5777907+08:00 80000026-0000-f900-b63f-84710c7967bb [INF] Http Query: [] (57622010)
+2022-04-21T02:15:38.5828730+08:00 80000026-0000-f900-b63f-84710c7967bb [INF] Http Body:  (43b197e1)
+2022-04-21T02:15:38.5855577+08:00 80000026-0000-f900-b63f-84710c7967bb [INF] Http response info: (59ece11a)
+2022-04-21T02:15:38.5881617+08:00 80000026-0000-f900-b63f-84710c7967bb [INF] Http status code: 200 (e8acc928)
+2022-04-21T02:15:38.5916064+08:00 80000026-0000-f900-b63f-84710c7967bb [INF] Http Header: {} (c0622202)
+2022-04-21T02:15:38.5952687+08:00 80000026-0000-f900-b63f-84710c7967bb [INF] Http ContentType:  (18c420ef)
+2022-04-21T02:15:38.5975713+08:00 80000026-0000-f900-b63f-84710c7967bb [INF] Http Method: GET (25017fb9)
+2022-04-21T02:15:38.6002566+08:00 80000026-0000-f900-b63f-84710c7967bb [INF] Http Query: [] (57622010)
+2022-04-21T02:15:38.6029516+08:00 80000026-0000-f900-b63f-84710c7967bb [INF] Http Body:  (43b197e1)
+2022-04-21T02:15:38.6053633+08:00 80000026-0000-f900-b63f-84710c7967bb [INF] Result:  (ddb1a60c)
+2022-04-21T02:15:38.6272573+08:00 80000026-0000-f900-b63f-84710c7967bb [INF] "{\r\n  \"Value\": [\r\n    {\r\n      \"ID\": 1,\r\n      \"Name\": \"Andy\",\r\n      \"Age\": 10,\r\n      \"Date\": \"2022-04-21T02:15:38.398074+08:00\"\r\n    },\r\n    {\r\n      \"ID\": 2,\r\n      \"Name\": \"Tom\",\r\n      \"Age\": 20,\r\n      \"Date\": \"2022-04-21T02:15:38.4323755+08:00\"\r\n    },\r\n    {\r\n      \"ID\": 3,\r\n      \"Name\": \"Sam\",\r\n      \"Age\": 18,\r\n      \"Date\": \"2022-04-21T02:15:38.4324896+08:00\"\r\n    }\r\n  ],\r\n  \"Formatters\": [],\r\n  \"ContentTypes\": [],\r\n  \"DeclaredType\": \"System.Collections.Generic.IEnumerable`1[[Microservices.Infra.DBContext.Entities.Enterprise_MVC_Core, Microservices.Infra, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=5.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e\",\r\n  \"StatusCode\": null\r\n}" (97277301)
+2022-04-21T02:15:38.6310833+08:00 80000026-0000-f900-b63f-84710c7967bb [INF] ClassFilter OnResultExecuting (3fe68e12)
+2022-04-21T02:15:38.6499910+08:00 80000026-0000-f900-b63f-84710c7967bb [INF] ClassFilter OnResultExecuted (f65e3622)
+2022-04-21T02:15:47.9174385+08:00 80000027-0000-f900-b63f-84710c7967bb [INF] ClassFilter OnActionExecuting (d8039a86)
+2022-04-21T02:15:47.9202317+08:00 80000027-0000-f900-b63f-84710c7967bb [INF] Controller: Demo; Action: GetWithAuthorize (9246bcae)
+2022-04-21T02:15:47.9229532+08:00 80000027-0000-f900-b63f-84710c7967bb [INF] Executing Demo controller - Get method with authorize. (5da19335)
+2022-04-21T02:15:47.9599050+08:00 80000027-0000-f900-b63f-84710c7967bb [INF] ClassFilter OnActionExecuted (5ca5a71c)
+2022-04-21T02:15:47.9633894+08:00 80000027-0000-f900-b63f-84710c7967bb [INF] Http request info: (f7b303b3)
+2022-04-21T02:15:47.9659318+08:00 80000027-0000-f900-b63f-84710c7967bb [INF] Http URL: /api/Demo/GetWithAuthorize (c48fe054)
+2022-04-21T02:15:47.9694143+08:00 80000027-0000-f900-b63f-84710c7967bb [INF] Http Header: {
+  "Accept": [
+    "text/plain"
+  ],
+  "Accept-Encoding": [
+    "gzip, deflate, br"
+  ],
+  "Accept-Language": [
+    "en-US,en;q=0.9"
+  ],
+  "Authorization": [
+    "Bearer eyJhbGciOiJSUzI1NiIsImtpZCI6IjY2NzdFM0QxOUMyQzI2MDQ0RTVCRTIxNEM2QjYxNEMzIiwidHlwIjoiYXQrand0In0.eyJuYmYiOjE2NTA0Nzg1MzIsImV4cCI6MTY1MDQ4MjEzMiwiaXNzIjoiaHR0cHM6Ly9sb2NhbGhvc3Q6NDQzMjgiLCJjbGllbnRfaWQiOiJEZXYtVXNlciIsInN1YiI6IjEiLCJhdXRoX3RpbWUiOjE2NTA0Nzg1MzIsImlkcCI6ImxvY2FsIiwicm9sZSI6ImFkbWluIiwianRpIjoiMDZBRDk3Q0MzQ0I4RTBFRjlEQTg4MDYwMjcwQzlBQjQiLCJzaWQiOiJERDMyQ0E2OEUxQTRBRTM2NTNGQzc3OUM3N0Q1N0JFRiIsImlhdCI6MTY1MDQ3ODUzMiwic2NvcGUiOlsiRGV2QXBpIiwiVWF0QXBpIl0sImFtciI6WyJwd2QiXX0.Quwkjh8f-BaCEoV3CJVuiQSPIgCQ4RsKY1IsD5CwNR8yf-MDINalUn2NEACindnC4qasELMTBIxnpnzFDEztuUI6MgoTCBTPZGNBex7MyTOg_ynByq2SJdGkYz6DqqOFEDfSwIzqlh4pVehVw4NNEDMXX4yHoQT86ZHFoyc30NQJbN-4zAI6p7Fu1rJdL4U6sTt64Mn_teqzYGcrmb6WZ82_zcp3yqV7Qbx5qif_iuw2afW7MjYd4opDVg9TE66esuaUcTL2MEyO_NbJh1eQ9pw1AVqcTzVzKp0z_-SQMp7CRbtFc4rOvNvm1ZlPXFYRSD8uSwUyoy4H-NCKY9-Jew"
+  ],
+  "Connection": [
+    "keep-alive"
+  ],
+  "Cookie": [
+    ".AspNetCore.Antiforgery.4QDlbYID8vg=CfDJ8I2uQt2XHYdHjxojPam-4h-C3aXCLec5ifqoBS1fUYd4toT_vkrRG83EgbXnaiuFnsCxWpfH42RDtMXb9NfJMKraRgATT_9Uo97uhNE_55HirNkZQqLZpiEaWuGfrKdiFH1HfYgWol7N6y1fmpACDps; idsrv.session=DD32CA68E1A4AE3653FC779C77D57BEF; idsrv=CfDJ8I2uQt2XHYdHjxojPam-4h9KAkXSp6c16Db8Pf4sV99dgRo1SSLUH-otvkV_KL79LheQYrlsOLeD8I7cjqGuLjji7P8VoF3xp23NQsbgX2RkW2XInvHNTKjqq3i7t4EPyCZizkdZwpd-pRrw8modt2cTEYLLb2oiAFhV9cQpYZamZunBjB76hnBM3JXD6qnYmJ05JBN-MfVFLjyM1ERBJtHBgIGLh38xrqOGwq3lZv7xmVedgoeIQNFT1r5aynBweZa5LCI6ShHS0CMJPVQRW3-lFONUFqFN4kFRKTqO9_zsQD5ZX2-aBtAdvwC7rzqMv7LoQ6grY_Icuhs0XN4qBGn9bJJg1NpmF9rG3KgLAXaMIkotz1tGjzDJ88y7oMhfT46uOVWEwvul3araPyq9e165ekyCa5aSFa65ckFVL1FWHZ2ZiniI-9YSif7f1CGDtITEeGAPXBFo2343x64yham4L-iqLREHD_qLDiDK86gog4GOcuiRJum4onOsoa3OAkB3y9A9X5OfkguxVntSZNgLaJ2If6ia-ztECRh_Vnvp--0eLxFa7V-hkMk7EUUSrQ"
+  ],
+  "Host": [
+    "localhost:55836"
+  ],
+  "Referer": [
+    "http://localhost:55836/swagger/index.html"
+  ],
+  "User-Agent": [
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.44"
+  ],
+  "sec-ch-ua": [
+    "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"100\", \"Microsoft Edge\";v=\"100\""
+  ],
+  "sec-ch-ua-mobile": [
+    "?0"
+  ],
+  "sec-ch-ua-platform": [
+    "\"Windows\""
+  ],
+  "Sec-Fetch-Site": [
+    "same-origin"
+  ],
+  "Sec-Fetch-Mode": [
+    "cors"
+  ],
+  "Sec-Fetch-Dest": [
+    "empty"
+  ]
+} (fa381c7c)
+2022-04-21T02:15:47.9720141+08:00 80000027-0000-f900-b63f-84710c7967bb [INF] Http Host: localhost:55836 (57bb97b7)
+2022-04-21T02:15:47.9746358+08:00 80000027-0000-f900-b63f-84710c7967bb [INF] Http ContentType:  (18c420ef)
+2022-04-21T02:15:47.9792305+08:00 80000027-0000-f900-b63f-84710c7967bb [INF] Http Method: GET (25017fb9)
+2022-04-21T02:15:47.9820792+08:00 80000027-0000-f900-b63f-84710c7967bb [INF] Http Query: [] (57622010)
+2022-04-21T02:15:47.9848684+08:00 80000027-0000-f900-b63f-84710c7967bb [INF] Http Body:  (43b197e1)
+2022-04-21T02:15:47.9875609+08:00 80000027-0000-f900-b63f-84710c7967bb [INF] Http response info: (59ece11a)
+2022-04-21T02:15:47.9904060+08:00 80000027-0000-f900-b63f-84710c7967bb [INF] Http status code: 200 (e8acc928)
+2022-04-21T02:15:47.9942383+08:00 80000027-0000-f900-b63f-84710c7967bb [INF] Http Header: {} (c0622202)
+2022-04-21T02:15:47.9971286+08:00 80000027-0000-f900-b63f-84710c7967bb [INF] Http ContentType:  (18c420ef)
+2022-04-21T02:15:47.9997705+08:00 80000027-0000-f900-b63f-84710c7967bb [INF] Http Method: GET (25017fb9)
+2022-04-21T02:15:48.0026093+08:00 80000027-0000-f900-b63f-84710c7967bb [INF] Http Query: [] (57622010)
+2022-04-21T02:15:48.0052571+08:00 80000027-0000-f900-b63f-84710c7967bb [INF] Http Body:  (43b197e1)
+2022-04-21T02:15:48.0080144+08:00 80000027-0000-f900-b63f-84710c7967bb [INF] Result:  (ddb1a60c)
+2022-04-21T02:15:48.0116733+08:00 80000027-0000-f900-b63f-84710c7967bb [INF] "{\r\n  \"Value\": [\r\n    {\r\n      \"ID\": 1,\r\n      \"Name\": \"Andy\",\r\n      \"Age\": 10,\r\n      \"Date\": \"2022-04-21T02:15:47.9569634+08:00\"\r\n    },\r\n    {\r\n      \"ID\": 2,\r\n      \"Name\": \"Tom\",\r\n      \"Age\": 20,\r\n      \"Date\": \"2022-04-21T02:15:47.9570197+08:00\"\r\n    },\r\n    {\r\n      \"ID\": 3,\r\n      \"Name\": \"Sam\",\r\n      \"Age\": 18,\r\n      \"Date\": \"2022-04-21T02:15:47.9570299+08:00\"\r\n    }\r\n  ],\r\n  \"Formatters\": [],\r\n  \"ContentTypes\": [],\r\n  \"DeclaredType\": \"System.Collections.Generic.IEnumerable`1[[Microservices.Infra.DBContext.Entities.Enterprise_MVC_Core, Microservices.Infra, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=5.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e\",\r\n  \"StatusCode\": null\r\n}" (6bccbee6)
+2022-04-21T02:15:48.0145781+08:00 80000027-0000-f900-b63f-84710c7967bb [INF] ClassFilter OnResultExecuting (3fe68e12)
+2022-04-21T02:15:48.0186789+08:00 80000027-0000-f900-b63f-84710c7967bb [INF] ClassFilter OnResultExecuted (f65e3622)
+2022-04-21T02:15:59.4386037+08:00 80000028-0000-f900-b63f-84710c7967bb [INF] ClassFilter OnActionExecuting (d8039a86)
+2022-04-21T02:15:59.4439894+08:00 80000028-0000-f900-b63f-84710c7967bb [INF] Controller: Demo; Action: Get (e5f39dc3)
+2022-04-21T02:15:59.4483238+08:00 80000028-0000-f900-b63f-84710c7967bb [INF] Executing Demo controller - Get method without authorize. (0018e415)
+2022-04-21T02:15:59.4639517+08:00 80000028-0000-f900-b63f-84710c7967bb [INF] ClassFilter OnActionExecuted (5ca5a71c)
+2022-04-21T02:15:59.4662973+08:00 80000028-0000-f900-b63f-84710c7967bb [INF] Http request info: (f7b303b3)
+2022-04-21T02:15:59.4687467+08:00 80000028-0000-f900-b63f-84710c7967bb [INF] Http URL: /api/Demo (fdda387b)
+2022-04-21T02:15:59.4717478+08:00 80000028-0000-f900-b63f-84710c7967bb [INF] Http Header: {
+  "Accept": [
+    "text/plain"
+  ],
+  "Accept-Encoding": [
+    "gzip, deflate, br"
+  ],
+  "Accept-Language": [
+    "en-US,en;q=0.9"
+  ],
+  "Connection": [
+    "keep-alive"
+  ],
+  "Cookie": [
+    ".AspNetCore.Antiforgery.4QDlbYID8vg=CfDJ8I2uQt2XHYdHjxojPam-4h-C3aXCLec5ifqoBS1fUYd4toT_vkrRG83EgbXnaiuFnsCxWpfH42RDtMXb9NfJMKraRgATT_9Uo97uhNE_55HirNkZQqLZpiEaWuGfrKdiFH1HfYgWol7N6y1fmpACDps; idsrv.session=DD32CA68E1A4AE3653FC779C77D57BEF; idsrv=CfDJ8I2uQt2XHYdHjxojPam-4h9KAkXSp6c16Db8Pf4sV99dgRo1SSLUH-otvkV_KL79LheQYrlsOLeD8I7cjqGuLjji7P8VoF3xp23NQsbgX2RkW2XInvHNTKjqq3i7t4EPyCZizkdZwpd-pRrw8modt2cTEYLLb2oiAFhV9cQpYZamZunBjB76hnBM3JXD6qnYmJ05JBN-MfVFLjyM1ERBJtHBgIGLh38xrqOGwq3lZv7xmVedgoeIQNFT1r5aynBweZa5LCI6ShHS0CMJPVQRW3-lFONUFqFN4kFRKTqO9_zsQD5ZX2-aBtAdvwC7rzqMv7LoQ6grY_Icuhs0XN4qBGn9bJJg1NpmF9rG3KgLAXaMIkotz1tGjzDJ88y7oMhfT46uOVWEwvul3araPyq9e165ekyCa5aSFa65ckFVL1FWHZ2ZiniI-9YSif7f1CGDtITEeGAPXBFo2343x64yham4L-iqLREHD_qLDiDK86gog4GOcuiRJum4onOsoa3OAkB3y9A9X5OfkguxVntSZNgLaJ2If6ia-ztECRh_Vnvp--0eLxFa7V-hkMk7EUUSrQ"
+  ],
+  "Host": [
+    "localhost:55836"
+  ],
+  "Referer": [
+    "http://localhost:55836/swagger/index.html"
+  ],
+  "User-Agent": [
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.44"
+  ],
+  "sec-ch-ua": [
+    "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"100\", \"Microsoft Edge\";v=\"100\""
+  ],
+  "sec-ch-ua-mobile": [
+    "?0"
+  ],
+  "sec-ch-ua-platform": [
+    "\"Windows\""
+  ],
+  "Sec-Fetch-Site": [
+    "same-origin"
+  ],
+  "Sec-Fetch-Mode": [
+    "cors"
+  ],
+  "Sec-Fetch-Dest": [
+    "empty"
+  ]
+} (9133766d)
+2022-04-21T02:15:59.4744557+08:00 80000028-0000-f900-b63f-84710c7967bb [INF] Http Host: localhost:55836 (57bb97b7)
+2022-04-21T02:15:59.4785073+08:00 80000028-0000-f900-b63f-84710c7967bb [INF] Http ContentType:  (18c420ef)
+2022-04-21T02:15:59.4813619+08:00 80000028-0000-f900-b63f-84710c7967bb [INF] Http Method: GET (25017fb9)
+2022-04-21T02:15:59.4839826+08:00 80000028-0000-f900-b63f-84710c7967bb [INF] Http Query: [] (57622010)
+2022-04-21T02:15:59.4867522+08:00 80000028-0000-f900-b63f-84710c7967bb [INF] Http Body:  (43b197e1)
+2022-04-21T02:15:59.4893292+08:00 80000028-0000-f900-b63f-84710c7967bb [INF] Http response info: (59ece11a)
+2022-04-21T02:15:59.4920511+08:00 80000028-0000-f900-b63f-84710c7967bb [INF] Http status code: 200 (e8acc928)
+2022-04-21T02:15:59.4962025+08:00 80000028-0000-f900-b63f-84710c7967bb [INF] Http Header: {} (c0622202)
+2022-04-21T02:15:59.4987765+08:00 80000028-0000-f900-b63f-84710c7967bb [INF] Http ContentType:  (18c420ef)
+2022-04-21T02:15:59.5011955+08:00 80000028-0000-f900-b63f-84710c7967bb [INF] Http Method: GET (25017fb9)
+2022-04-21T02:15:59.5035445+08:00 80000028-0000-f900-b63f-84710c7967bb [INF] Http Query: [] (57622010)
+2022-04-21T02:15:59.5061750+08:00 80000028-0000-f900-b63f-84710c7967bb [INF] Http Body:  (43b197e1)
+2022-04-21T02:15:59.5083315+08:00 80000028-0000-f900-b63f-84710c7967bb [INF] Result:  (ddb1a60c)
+2022-04-21T02:15:59.5121035+08:00 80000028-0000-f900-b63f-84710c7967bb [INF] "{\r\n  \"Value\": [\r\n    {\r\n      \"ID\": 1,\r\n      \"Name\": \"Andy\",\r\n      \"Age\": 10,\r\n      \"Date\": \"2022-04-21T02:15:59.4595661+08:00\"\r\n    },\r\n    {\r\n      \"ID\": 2,\r\n      \"Name\": \"Tom\",\r\n      \"Age\": 20,\r\n      \"Date\": \"2022-04-21T02:15:59.4597506+08:00\"\r\n    },\r\n    {\r\n      \"ID\": 3,\r\n      \"Name\": \"Sam\",\r\n      \"Age\": 18,\r\n      \"Date\": \"2022-04-21T02:15:59.4597752+08:00\"\r\n    }\r\n  ],\r\n  \"Formatters\": [],\r\n  \"ContentTypes\": [],\r\n  \"DeclaredType\": \"System.Collections.Generic.IEnumerable`1[[Microservices.Infra.DBContext.Entities.Enterprise_MVC_Core, Microservices.Infra, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=5.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e\",\r\n  \"StatusCode\": null\r\n}" (02c1274d)
+2022-04-21T02:15:59.5156715+08:00 80000028-0000-f900-b63f-84710c7967bb [INF] ClassFilter OnResultExecuting (3fe68e12)
+2022-04-21T02:15:59.5191378+08:00 80000028-0000-f900-b63f-84710c7967bb [INF] ClassFilter OnResultExecuted (f65e3622)
+2022-04-21T02:16:06.3532885+08:00 80000029-0000-f900-b63f-84710c7967bb [INF] ClassFilter OnActionExecuting (d8039a86)
+2022-04-21T02:16:06.3557843+08:00 80000029-0000-f900-b63f-84710c7967bb [INF] Controller: Demo; Action: Get (e5f39dc3)
+2022-04-21T02:16:06.3590544+08:00 80000029-0000-f900-b63f-84710c7967bb [INF] Executing Demo controller - Get method without authorize. (0018e415)
+2022-04-21T02:16:06.3663320+08:00 80000029-0000-f900-b63f-84710c7967bb [INF] ClassFilter OnActionExecuted (5ca5a71c)
+2022-04-21T02:16:06.3694483+08:00 80000029-0000-f900-b63f-84710c7967bb [INF] Http request info: (f7b303b3)
+2022-04-21T02:16:06.3717858+08:00 80000029-0000-f900-b63f-84710c7967bb [INF] Http URL: /api/Demo (fdda387b)
+2022-04-21T02:16:06.3743024+08:00 80000029-0000-f900-b63f-84710c7967bb [INF] Http Header: {
+  "Accept": [
+    "text/plain"
+  ],
+  "Accept-Encoding": [
+    "gzip, deflate, br"
+  ],
+  "Accept-Language": [
+    "en-US,en;q=0.9"
+  ],
+  "Connection": [
+    "keep-alive"
+  ],
+  "Cookie": [
+    ".AspNetCore.Antiforgery.4QDlbYID8vg=CfDJ8I2uQt2XHYdHjxojPam-4h-C3aXCLec5ifqoBS1fUYd4toT_vkrRG83EgbXnaiuFnsCxWpfH42RDtMXb9NfJMKraRgATT_9Uo97uhNE_55HirNkZQqLZpiEaWuGfrKdiFH1HfYgWol7N6y1fmpACDps; idsrv.session=DD32CA68E1A4AE3653FC779C77D57BEF; idsrv=CfDJ8I2uQt2XHYdHjxojPam-4h9KAkXSp6c16Db8Pf4sV99dgRo1SSLUH-otvkV_KL79LheQYrlsOLeD8I7cjqGuLjji7P8VoF3xp23NQsbgX2RkW2XInvHNTKjqq3i7t4EPyCZizkdZwpd-pRrw8modt2cTEYLLb2oiAFhV9cQpYZamZunBjB76hnBM3JXD6qnYmJ05JBN-MfVFLjyM1ERBJtHBgIGLh38xrqOGwq3lZv7xmVedgoeIQNFT1r5aynBweZa5LCI6ShHS0CMJPVQRW3-lFONUFqFN4kFRKTqO9_zsQD5ZX2-aBtAdvwC7rzqMv7LoQ6grY_Icuhs0XN4qBGn9bJJg1NpmF9rG3KgLAXaMIkotz1tGjzDJ88y7oMhfT46uOVWEwvul3araPyq9e165ekyCa5aSFa65ckFVL1FWHZ2ZiniI-9YSif7f1CGDtITEeGAPXBFo2343x64yham4L-iqLREHD_qLDiDK86gog4GOcuiRJum4onOsoa3OAkB3y9A9X5OfkguxVntSZNgLaJ2If6ia-ztECRh_Vnvp--0eLxFa7V-hkMk7EUUSrQ"
+  ],
+  "Host": [
+    "localhost:55836"
+  ],
+  "Referer": [
+    "http://localhost:55836/swagger/index.html"
+  ],
+  "User-Agent": [
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.44"
+  ],
+  "sec-ch-ua": [
+    "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"100\", \"Microsoft Edge\";v=\"100\""
+  ],
+  "sec-ch-ua-mobile": [
+    "?0"
+  ],
+  "sec-ch-ua-platform": [
+    "\"Windows\""
+  ],
+  "Sec-Fetch-Site": [
+    "same-origin"
+  ],
+  "Sec-Fetch-Mode": [
+    "cors"
+  ],
+  "Sec-Fetch-Dest": [
+    "empty"
+  ]
+} (9133766d)
+2022-04-21T02:16:06.3772446+08:00 80000029-0000-f900-b63f-84710c7967bb [INF] Http Host: localhost:55836 (57bb97b7)
+2022-04-21T02:16:06.3812284+08:00 80000029-0000-f900-b63f-84710c7967bb [INF] Http ContentType:  (18c420ef)
+2022-04-21T02:16:06.3831968+08:00 80000029-0000-f900-b63f-84710c7967bb [INF] Http Method: GET (25017fb9)
+2022-04-21T02:16:06.3853179+08:00 80000029-0000-f900-b63f-84710c7967bb [INF] Http Query: [] (57622010)
+2022-04-21T02:16:06.3874146+08:00 80000029-0000-f900-b63f-84710c7967bb [INF] Http Body:  (43b197e1)
+2022-04-21T02:16:06.3896465+08:00 80000029-0000-f900-b63f-84710c7967bb [INF] Http response info: (59ece11a)
+2022-04-21T02:16:06.3917869+08:00 80000029-0000-f900-b63f-84710c7967bb [INF] Http status code: 200 (e8acc928)
+2022-04-21T02:16:06.3955155+08:00 80000029-0000-f900-b63f-84710c7967bb [INF] Http Header: {} (c0622202)
+2022-04-21T02:16:06.3976684+08:00 80000029-0000-f900-b63f-84710c7967bb [INF] Http ContentType:  (18c420ef)
+2022-04-21T02:16:06.3999333+08:00 80000029-0000-f900-b63f-84710c7967bb [INF] Http Method: GET (25017fb9)
+2022-04-21T02:16:06.4019703+08:00 80000029-0000-f900-b63f-84710c7967bb [INF] Http Query: [] (57622010)
+2022-04-21T02:16:06.4039773+08:00 80000029-0000-f900-b63f-84710c7967bb [INF] Http Body:  (43b197e1)
+2022-04-21T02:16:06.4060547+08:00 80000029-0000-f900-b63f-84710c7967bb [INF] Result:  (ddb1a60c)
+2022-04-21T02:16:06.4083069+08:00 80000029-0000-f900-b63f-84710c7967bb [INF] "{\r\n  \"Value\": [\r\n    {\r\n      \"ID\": 1,\r\n      \"Name\": \"Andy\",\r\n      \"Age\": 10,\r\n      \"Date\": \"2022-04-21T02:16:06.3621691+08:00\"\r\n    },\r\n    {\r\n      \"ID\": 2,\r\n      \"Name\": \"Tom\",\r\n      \"Age\": 20,\r\n      \"Date\": \"2022-04-21T02:16:06.3622262+08:00\"\r\n    },\r\n    {\r\n      \"ID\": 3,\r\n      \"Name\": \"Sam\",\r\n      \"Age\": 18,\r\n      \"Date\": \"2022-04-21T02:16:06.3622443+08:00\"\r\n    }\r\n  ],\r\n  \"Formatters\": [],\r\n  \"ContentTypes\": [],\r\n  \"DeclaredType\": \"System.Collections.Generic.IEnumerable`1[[Microservices.Infra.DBContext.Entities.Enterprise_MVC_Core, Microservices.Infra, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=5.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e\",\r\n  \"StatusCode\": null\r\n}" (dfe2a363)
+2022-04-21T02:16:06.4118846+08:00 80000029-0000-f900-b63f-84710c7967bb [INF] ClassFilter OnResultExecuting (3fe68e12)
+2022-04-21T02:16:06.4148022+08:00 80000029-0000-f900-b63f-84710c7967bb [INF] ClassFilter OnResultExecuted (f65e3622)

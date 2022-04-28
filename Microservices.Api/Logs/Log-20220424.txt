@@ -1,0 +1,72 @@
+2022-04-24T21:06:30.2473283+08:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-04-24T21:06:30.2608968+08:00  [INF] Hosting environment: "Development" (c3307c92)
+2022-04-24T21:06:30.2643137+08:00  [INF] Content root path: "C:\Users\DavidLin\Documents\Projects_VisualStudio2019\Microservices.Api\Microservices.Api\Microservices.Api" (b5d60022)
+2022-04-24T21:43:19.8552994+08:00 80000005-0001-ff00-b63f-84710c7967bb [INF] ClassFilter OnActionExecuting (d8039a86)
+2022-04-24T21:43:19.8812700+08:00 80000005-0001-ff00-b63f-84710c7967bb [INF] Controller: Demo; Action: GetWithAuthorize (9246bcae)
+2022-04-24T21:43:19.8855574+08:00 80000005-0001-ff00-b63f-84710c7967bb [INF] Executing Demo controller - Get method with authorize. (5da19335)
+2022-04-24T21:43:22.4628932+08:00 80000005-0001-ff00-b63f-84710c7967bb [INF] ClassFilter OnActionExecuted (5ca5a71c)
+2022-04-24T21:43:22.4651224+08:00 80000005-0001-ff00-b63f-84710c7967bb [INF] Http request info: (f7b303b3)
+2022-04-24T21:43:22.4673705+08:00 80000005-0001-ff00-b63f-84710c7967bb [INF] Http URL: /api/Demo/GetWithAuthorize (c48fe054)
+2022-04-24T21:43:22.5858215+08:00 80000005-0001-ff00-b63f-84710c7967bb [INF] Http Header: {
+  "Accept": [
+    "text/plain"
+  ],
+  "Accept-Encoding": [
+    "gzip, deflate, br"
+  ],
+  "Accept-Language": [
+    "en-US,en;q=0.9"
+  ],
+  "Authorization": [
+    "Bearer eyJhbGciOiJSUzI1NiIsImtpZCI6IjY2NzdFM0QxOUMyQzI2MDQ0RTVCRTIxNEM2QjYxNEMzIiwidHlwIjoiYXQrand0In0.eyJuYmYiOjE2NTA4MDYyOTksImV4cCI6MTY1MDgwOTg5OSwiaXNzIjoiaHR0cHM6Ly9sb2NhbGhvc3Q6NDQzMjgiLCJjbGllbnRfaWQiOiJEZXYtVXNlciIsInN1YiI6IjEiLCJhdXRoX3RpbWUiOjE2NTA4MDYyOTgsImlkcCI6ImxvY2FsIiwicm9sZSI6ImFkbWluIiwianRpIjoiREM3Q0IwQTVDQzE0RUM1OEQ0Q0U1MkYzRjM1OThDNjgiLCJzaWQiOiIzOTIxRDM4MUREOTMyODAwMDYyQ0Y2MTRBQzg5RUZCNiIsImlhdCI6MTY1MDgwNjI5OSwic2NvcGUiOlsiRGV2QXBpIiwiVWF0QXBpIl0sImFtciI6WyJwd2QiXX0.rHr2nfoHQtltFZA9QGW0rXMw2gYSMYNVq_POxEDi0RLqIG3mQrsyZXVxrQBQaT4IesdluTvm5jN3ZdPonLkQ6gGv9Ui1UPbMTlf08oIdWKanCGZnQZuHCGp5oomIQWdISgKFOa95QUlZXRXAwySph5_CCb-eHDKMZ4S88Ilb4hg-9cqKqLAEyfcKHBv7P9RVI_SgABcG3wYcZsKmSz3NKfU44LlpTpuURbFw5jooDXYfhmlr6nhNfoAbOGmDlScBLQzRDCq2KHi8lDa6c-6iIiXOgZKFN8jOvmDds1szyZjWhLVJIfnQjF1z2RPsdjpaCZDrOCDOT_X5BsdmM6E7fQ"
+  ],
+  "Connection": [
+    "keep-alive"
+  ],
+  "Cookie": [
+    ".AspNetCore.Antiforgery.4QDlbYID8vg=CfDJ8I2uQt2XHYdHjxojPam-4h9TTqaX65q0bs8KCo2e5wvP8-iVQl_QA-5qK-Qzd0SyervaDUWHUmqRSBqs6RuhYvyJBjdSSnXPGHFgXw46Vg0xoBxS1LOWd7KGtOS-Co8l9zJDVzNRUDByWt9Nc3aZPwI; idsrv.session=3921D381DD932800062CF614AC89EFB6; idsrv=CfDJ8I2uQt2XHYdHjxojPam-4h9uHtrnB46Dip7AHzUsa-AQF4LicPZpz96IrGM7cOSxZm-7GwMFHUM0-hwZ-QyrO2uaQIpE8lBEk4CItoFwsaMBf12s8CTMICCFiJ9xxyqtANaV-GjZZx90F4HoT_kiSj3CSLaqGGlbrAH67FXWqpA9XqTjX9CDucgXjpnWQ0sFgzSbv0PeuLulk9OYNxYOVf4ENzYjJ9r8nRjvJIOs3il048x28umVgX80fLo2w3I0W-ghL-TeA2oHZOzKuEsOTdvvIhgGJDIi1daldUdMxFXL7_HACBG9S-taAl7JYKoLGPa84LKyQMgIWtWNHEjUd281kr0CRt0JBirCQu2g4-yjhuHPKzlxE06lJFlbS9RkfYX5ofNnZE6Zb-qk7p0yd6Ub2G_LrencdAooW0fN2xPf1r893xcQF0MAu6OnXVoOhGRrn4wE8yIOd4z4Z_YHZ-53XWdpyVHdg4OaZQ5k8gKJJ16ZZcC8BDD4zFXmp8N9CBHNUu0peaV5YbIuWf5nGxD5BFliDU1dp__k8T-na_bOnRLckma8pSbYvvnBkO9eqg"
+  ],
+  "Host": [
+    "localhost:55836"
+  ],
+  "Referer": [
+    "http://localhost:55836/swagger/index.html"
+  ],
+  "User-Agent": [
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50"
+  ],
+  "sec-ch-ua": [
+    "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"100\", \"Microsoft Edge\";v=\"100\""
+  ],
+  "sec-ch-ua-mobile": [
+    "?0"
+  ],
+  "sec-ch-ua-platform": [
+    "\"Windows\""
+  ],
+  "Sec-Fetch-Site": [
+    "same-origin"
+  ],
+  "Sec-Fetch-Mode": [
+    "cors"
+  ],
+  "Sec-Fetch-Dest": [
+    "empty"
+  ]
+} (1218a5ba)
+2022-04-24T21:43:22.5890774+08:00 80000005-0001-ff00-b63f-84710c7967bb [INF] Http Host: localhost:55836 (57bb97b7)
+2022-04-24T21:43:22.5925100+08:00 80000005-0001-ff00-b63f-84710c7967bb [INF] Http ContentType:  (18c420ef)
+2022-04-24T21:43:22.5961512+08:00 80000005-0001-ff00-b63f-84710c7967bb [INF] Http Method: GET (25017fb9)
+2022-04-24T21:43:22.6292143+08:00 80000005-0001-ff00-b63f-84710c7967bb [INF] Http Query: [] (57622010)
+2022-04-24T21:43:22.6751452+08:00 80000005-0001-ff00-b63f-84710c7967bb [INF] Http Body:  (43b197e1)
+2022-04-24T21:43:22.6775555+08:00 80000005-0001-ff00-b63f-84710c7967bb [INF] Http response info: (59ece11a)
+2022-04-24T21:43:22.6801536+08:00 80000005-0001-ff00-b63f-84710c7967bb [INF] Http status code: 200 (e8acc928)
+2022-04-24T21:43:22.6859935+08:00 80000005-0001-ff00-b63f-84710c7967bb [INF] Http Header: {} (c0622202)
+2022-04-24T21:43:22.6891933+08:00 80000005-0001-ff00-b63f-84710c7967bb [INF] Http ContentType:  (18c420ef)
+2022-04-24T21:43:22.6915730+08:00 80000005-0001-ff00-b63f-84710c7967bb [INF] Http Method: GET (25017fb9)
+2022-04-24T21:43:22.6947445+08:00 80000005-0001-ff00-b63f-84710c7967bb [INF] Http Query: [] (57622010)
+2022-04-24T21:43:22.6975502+08:00 80000005-0001-ff00-b63f-84710c7967bb [INF] Http Body:  (43b197e1)
+2022-04-24T21:43:22.7002072+08:00 80000005-0001-ff00-b63f-84710c7967bb [INF] Result:  (ddb1a60c)
+2022-04-24T21:43:22.7411129+08:00 80000005-0001-ff00-b63f-84710c7967bb [INF] "{\r\n  \"Value\": [\r\n    {\r\n      \"ID\": 1,\r\n      \"Name\": \"Andy\",\r\n      \"Age\": 10,\r\n      \"Date\": \"2022-04-24T21:43:22.4066865+08:00\"\r\n    },\r\n    {\r\n      \"ID\": 2,\r\n      \"Name\": \"Tom\",\r\n      \"Age\": 20,\r\n      \"Date\": \"2022-04-24T21:43:22.4408819+08:00\"\r\n    },\r\n    {\r\n      \"ID\": 3,\r\n      \"Name\": \"Sam\",\r\n      \"Age\": 18,\r\n      \"Date\": \"2022-04-24T21:43:22.4409896+08:00\"\r\n    }\r\n  ],\r\n  \"Formatters\": [],\r\n  \"ContentTypes\": [],\r\n  \"DeclaredType\": \"System.Collections.Generic.IEnumerable`1[[Microservices.Infra.DBContext.Entities.Enterprise_MVC_Core, Microservices.Infra, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=5.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e\",\r\n  \"StatusCode\": null\r\n}" (27eaa407)
+2022-04-24T21:43:22.7457845+08:00 80000005-0001-ff00-b63f-84710c7967bb [INF] ClassFilter OnResultExecuting (3fe68e12)
+2022-04-24T21:43:22.7951095+08:00 80000005-0001-ff00-b63f-84710c7967bb [INF] ClassFilter OnResultExecuted (f65e3622)
