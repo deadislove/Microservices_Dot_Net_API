@@ -3,3 +3,19 @@
 ################################################################################
 
 /IdentityServer/bin/Debug/net5.0
+/IdentityServer/obj/Debug/net5.0
+/IdentityServer.Core/obj/Debug/net5.0
+/IdentityServer.Core/bin/Debug/net5.0
+/IdentityServer.Core/obj
+/IdentityServer/obj
+/Microservices.Api/bin/net5.0
+/Microservices.Api/obj/Debug/net5.0
+/Microservices.Api/obj
+/Microservices.Core/bin/Debug/net5.0
+/Microservices.Core/obj/Debug/net5.0
+/Microservices.Infra/bin/Debug/net5.0
+/Microservices.Infra/obj
+/Microservices.SharedKernel/bin/Debug/net5.0
+/Microservices.SharedKernel/obj/Debug/net5.0
+/Microservices.SharedKernel/obj
+/Microservices.Core/obj
