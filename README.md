@@ -40,9 +40,11 @@ This repository provide the microservice web API sample projects. The guide arti
 - IdentityServer4 4.1.2
 - Serilog.Extensions.Logging.File 2.0.0
 - IdentityServer4.AccessTokenValidation 3.0.1
-
+- MeditaR 10.0.1
+- MediatR.Extensions.Microsoft.DependencyInjection 10.0.1
 
 ### Referemce
 - [Creating a simple data-driven CRUD microservice](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/data-driven-crud-microservice)
 - [IdentityServer4 Documents](https://identityserver4.readthedocs.io/en/latest/)
 - [IdentityServer4 Github](https://github.com/IdentityServer/IdentityServer4)
+- [MediatR Github](https://github.com/jbogard/MediatR)
